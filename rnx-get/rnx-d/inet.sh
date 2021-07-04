@@ -1,6 +1,8 @@
 #!/data/data/com.awnto.rinix.io/files/usr/kbin/bash
 
 
+
+
 pdir=$HOME/.awnto
 pfol=rnx-d
 pfll=$pdir/$pfol
