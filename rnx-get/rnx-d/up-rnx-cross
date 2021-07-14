@@ -3,6 +3,7 @@
 
 
 
+
 pdir=$HOME/.awnto
 pfol=rnx-d
 pfll=$pdir/$pfol
