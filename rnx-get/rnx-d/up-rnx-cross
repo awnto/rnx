@@ -48,6 +48,10 @@ echo ""
 echo "installing in free mode"
 #echo "or run this after some days"
 echo ""
+
+rnx_tn=rnx-d-cross.tar.gz
+rnx_tar_link=http://rnx.awnto.com/rnx-get/rnx-d/$rnx_tn
+
 #exit 
 ;;
 esac
