@@ -43,9 +43,11 @@ echo "kindly contact "
 echo "https://rinix.awnto.com"
 echo ""
 echo ""
-echo "or run this after some days"
+echo "installing in free mode"
+#echo "or run this after some days"
 echo ""
-exit ;;
+#exit 
+;;
 esac
 
 
